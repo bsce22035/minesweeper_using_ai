@@ -4,7 +4,7 @@ A Python-based implementation of the classic Minesweeper game with an AI agent t
 **minesweeper.py**: contains core logic of game and AI. <br/>
 **runner.py**: Pygame-based interface to play the game manually or let the AI play. <br/>
 
-enter command " pyhton runner.py" to start the game. <br/>
+enter command " python runner.py" to start the game. <br/>
 
 ## How to Play<br/>
 
