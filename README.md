@@ -1,14 +1,14 @@
 # Minesweeper AI Game
-A Python-based implementation of the classic Minesweeper game with an AI agent that plays intelligently using logical inference.
+A Python-based implementation of the classic Minesweeper game with an AI agent that plays intelligently using logical inference. <br/>
 
-**minesweeper.py**: contains core logic of game and AI.
-**runner.py**: Pygame-based interface to play the game manually or let the AI play.
+**minesweeper.py**: contains core logic of game and AI. <br/>
+**runner.py**: Pygame-based interface to play the game manually or let the AI play. <br/>
 
-enter command " pyhton runner.py" to start the game.
+enter command " pyhton runner.py" to start the game. <br/>
 
-## How to Play
+## How to Play<br/>
 
-**Left-click** to reveal a cell.
-**Right-click** to flag a suspected mine.
-**AI Move:** Click the "AI Move" button to let the AI take a turn.
-**Reset:** Restart the game at any time.
+**Left-click** to reveal a cell. <br/>
+**Right-click** to flag a suspected mine. <br/>
+**AI Move:** Click the "AI Move" button to let the AI take a turn. <br/>
+**Reset:** Restart the game at any time. <br/>
